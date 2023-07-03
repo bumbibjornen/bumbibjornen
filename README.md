@@ -10,7 +10,12 @@
 - <b>Datacamp Python Projects</b>
   - [Package Delivery Application (Data structures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>📃 Certifications </h2>
 
+- [Cyber Security Engineering Diploma](https://drive.google.com/file/d/1gx9ZEy7eLiuJizi9CLBv2WgQ2AMuA54z/view?usp=drive_link)
+- [Introduction to SQL Diploma](https://drive.google.com/file/d/1RGlKDhI4pFmwbaD7cuZjRZFGeZmoV6ls/view?usp=drive_link)
+- [Intermediate SQL Diploma](https://drive.google.com/file/d/1u8souEe9TcuQjYqD6Mt6ML_OKgqHeTL5/view?usp=drive_link)
+- [Introduction to Python Diploma](https://drive.google.com/file/d/184vBhLH-LDMqMp6TxuxDimMiuSyatYSs/view?usp=drive_link)
 
 <h2> 🤳 Connect with me:</h2>
 
