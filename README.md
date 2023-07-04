@@ -6,7 +6,7 @@
   - [Mimikatz Pass the Hash](https://github.com/bumbibjornen/Mimikatz-Pass-the-Hash-Project)
 
 - <b>Reports</b>
-  - [Security report of a lawfirm](https://github.com/bumbibjornen/LABURL)
+  - [Security report of a lawfirm](https://github.com/bumbibjornen/Security-report-from-Securestart)
 
 - <b>Datacamp Python Projects</b>
   - [Designing a Bank Marketing Database](https://github.com/bumbibjornen/LABURL)
