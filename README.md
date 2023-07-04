@@ -8,7 +8,7 @@
   - [Image Analysis Middleware](https://github.com/bumbijornen/LABURL) 
 
 - <b>Datacamp Python Projects</b>
-  - [Package Delivery Application (Data structures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Designing a Bank Marketing Database](https://github.com/bumbibjornen/LABURL)
 
 <h2>📃 Certifications </h2>
 
