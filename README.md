@@ -4,8 +4,9 @@
 
 - <b>Mimikatz (Pass the hash) Project</b>
   - [Mimikatz Pass the Hash](https://github.com/bumbibjornen/Mimikatz-Pass-the-Hash-Project)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/bumbijornen/LABURL) 
+
+- <b>Reports</b>
+  - [Security report of a lawfirm](https://github.com/bumbibjornen/LABURL)
 
 - <b>Datacamp Python Projects</b>
   - [Designing a Bank Marketing Database](https://github.com/bumbibjornen/LABURL)
