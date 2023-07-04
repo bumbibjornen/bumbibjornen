@@ -5,7 +5,7 @@
 - <b>Mimikatz (Pass the hash) Project</b>
   - [Mimikatz Pass the Hash](https://github.com/bumbibjornen/Mimikatz-Pass-the-Hash-Project)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/bumbijornen/LABURL) 
 
 - <b>Datacamp Python Projects</b>
   - [Package Delivery Application (Data structures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
