@@ -9,7 +9,7 @@
   - [Security report for a law firm](https://github.com/bumbibjornen/Security-report-from-Securestart)
 
 - <b>Datacamp Python Projects</b>
-  - [Designing a Bank Marketing Database](https://github.com/bumbibjornen/LABURL)
+  - [Designing a Bank Marketing Database (COMING SOON!)](https://github.com/bumbibjornen/LABURL)
 
 <h2>📃 Certifications </h2>
 
